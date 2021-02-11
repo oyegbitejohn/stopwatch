@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+
+    <string name="watch">00</string>
+    <string name="vertical_dot">:</string>
+    <string name="single_dot">.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+</resources>
